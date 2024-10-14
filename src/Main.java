@@ -3,5 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.printf("Hello, My name shy girl");
+        System.out.printf("Hello, My name shy girl");
     }
 }
